@@ -1,0 +1,20 @@
+import 'package:along_along_app/providers/providers.dart';
+import 'package:along_along_app/theme/theme_value.dart';
+import 'package:along_along_app/widgets/widgets.dart';
+import 'package:flutter/material.dart';
+import 'package:along_along_app/size_config.dart';
+import 'package:flushbar/flushbar.dart';
+import 'package:pin_input_text_field/pin_input_text_field.dart';
+import 'package:provider/provider.dart';
+import 'package:badges/badges.dart';
+import 'package:intl/intl.dart';
+
+part 'splash_page.dart';
+part 'register_page.dart';
+part 'otp_page.dart';
+part 'login_page.dart';
+part 'assistant_page.dart';
+part 'product_page.dart';
+part 'cart_page.dart';
+part 'payment_page.dart';
+part 'address_page.dart';
